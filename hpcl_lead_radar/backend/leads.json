@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "company_name": "Shakti Power Pvt Ltd",
+    "industry": "Manufacturing",
+    "location": "Gujarat",
+    "signal_text": "New boiler and captive power plant commissioned"
+  },
+  {
+    "id": 2,
+    "company_name": "National Highway Infra Corp",
+    "industry": "Infrastructure",
+    "location": "Maharashtra",
+    "signal_text": "Road and highway expansion project announced"
+  },
+  {
+    "id": 3,
+    "company_name": "Oceanic Shipping Services",
+    "industry": "Logistics",
+    "location": "Tamil Nadu",
+    "signal_text": "Expansion of shipping operations near port"
+  },
+  {
+    "id": 4,
+    "company_name": "GreenChem Industries",
+    "industry": "Chemicals",
+    "location": "Telangana",
+    "signal_text": "New solvent-based chemical manufacturing unit"
+  }
+]
