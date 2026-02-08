@@ -92,7 +92,7 @@ hpcl_lead_radar/
 ## ▶️ How to Run Locally
 
 ### 1️⃣ Backend
-```bash
+bash
 cd hpcl_lead_radar/backend
 pip install -r requirements.txt
 uvicorn main:app --reload
@@ -137,4 +137,7 @@ Executive analytics dashboard
 🏁 Conclusion
 
 HPCL Lead Radar demonstrates how HPCL can scale B2B customer discovery by combining public intelligence, explainable inference, and intuitive sales workflows—enabling faster discovery, better prioritization, and proactive engagement.
-Author: Drishti Neelam Kanojia
+
+
+###Author: Drishti Neelam Kanojia
+
